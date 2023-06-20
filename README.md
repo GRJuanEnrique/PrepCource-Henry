@@ -1,2 +1,2 @@
-# PrepCource-Henry
-Este un repositorio del modulo2 de PrepCourse de Henry 
+este proyecto es una prueba para clonar un proyecto de git en la nube 
+
